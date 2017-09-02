@@ -1,2 +1,2 @@
 # react_music_player
-react+webpack  学习实践
+react 开发，webpack自动化构建以及热刷新的实践
